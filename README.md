@@ -10,26 +10,30 @@ Réalisation d'un mini réseau d'une entreprise afin de mieux comprendre son fon
 |-----------------------------------------------------------------|
 
 
-## Règles
-        _Communication
-*Informatique : All  
+## Règles 
+        ### _Communication
+* Informatique : All  
 
-*Graphisme : informatique
+* Graphisme : informatique
 
-*Financier : informatique, logistique
+* Financier : informatique, logistique
 
-*Administratif : informatique
+* Administratif : informatique
 
-*Logistique : informatique, financier
+* Logistique : informatique, financier
 
-        _Machines utiles
+        ### _Machines utiles
 -Routeur
 -Switch ; nb:1-CT, 1-A, 1-F, 1-L, 1-I, 1-G
+
 -Serveur DHCP
+
 -PC ; nb: 2-A, 2-F, 2-L, 2-I, 2-G
+
 -Tel VOIP; nb: 1-A, 1-F
 
-        _Nom des machines
+
+       ### _Nom des machines
 <ins>Administratif</ins>
 
 <ins>Financier</ins>
