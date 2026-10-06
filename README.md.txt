@@ -1,4 +1,4 @@
-#Projet Réseau Entreprise (MRE)
+# Projet Réseau Entreprise (MRE)
 Réalisation d'un mini réseau d'une entreprise afin de mieux comprendre son fonctionnement 
 
 |-----------------------------------------------------------------|
@@ -10,7 +10,7 @@ Réalisation d'un mini réseau d'une entreprise afin de mieux comprendre son fon
 |-----------------------------------------------------------------|
 
 
-##Règles
+## Règles
         _Communication
 *Informatique : All 
 *Graphisme : informatique
