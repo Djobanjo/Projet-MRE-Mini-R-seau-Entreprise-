@@ -2,11 +2,17 @@
 Réalisation d'un mini réseau d'une entreprise afin de mieux comprendre son fonctionnement 
 
 |-----------------------------------------------------------------|
+
 |  nb -> nombre                                                   |
+
 |  nb -> x-(A-Z) --Lettre du pôle concerné                        |
+
 |        |                                                        |
+
 |       nombre de machine                                         |
+
 |       attribué au pole                                          |
+
 |-----------------------------------------------------------------|
 
 
