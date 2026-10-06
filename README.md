@@ -12,10 +12,14 @@ Réalisation d'un mini réseau d'une entreprise afin de mieux comprendre son fon
 
 ## Règles
         _Communication
-*Informatique : All 
+*Informatique : All  
+
 *Graphisme : informatique
+
 *Financier : informatique, logistique
+
 *Administratif : informatique
+
 *Logistique : informatique, financier
 
         _Machines utiles
